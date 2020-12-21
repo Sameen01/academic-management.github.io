@@ -24,7 +24,7 @@
   
 </head>
 <body>
-  <!-- menu -->
+ <!-- menu -->
   <?php include("includes/parts/menu.php"); ?>
 
 <section class="engine"><a href="https://mobirise.me/r">bootstrap template</a></section><section class="cid-rjmziudFpC mbr-parallax-background" id="header2-1">
