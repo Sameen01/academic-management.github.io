@@ -1,1 +1,0 @@
-# academic-management.github.io
